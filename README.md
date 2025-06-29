@@ -22,6 +22,7 @@ This is an automated test framework for [Restful Booker API](https://restful-boo
 
 ---
 ✅ Sample Test Scenarios Covered
+
 ✔ Create booking with raw JSON
 
 ✔ Create booking with POJO
