@@ -23,10 +23,17 @@ This is an automated test framework for [Restful Booker API](https://restful-boo
 ---
 ✅ Sample Test Scenarios Covered
 ✔ Create booking with raw JSON
+
 ✔ Create booking with POJO
+
 ✔ Get booking by ID (JSON/XML)
+
 ✔ Get booking IDs with/without filters
+
 ✔ Full booking update (PUT)
+
 ✔ Partial update (PATCH)
+
 ✔ Delete booking
+
 ✔ Health check and header validation
